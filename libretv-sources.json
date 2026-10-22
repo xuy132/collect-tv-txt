@@ -1,0 +1,25 @@
+{
+  "name" : "一帆精选来源列表 (2026-10-13 实测可用) " ,
+  “版本”：2，
+  “来源”：[
+    { "name" : "暴风资源" , "url" : " https://bfzyapi.com/api.php/provide/vod " , "isAdult" : false },
+    { "name" : "非凡资源" , "url" : " https://cj.ffzyapi.com/api.php/provide/vod " , "isAdult" : false },
+    { "name" : "量子资源" , "url" : " https://cj.lziapi.com/api.php/provide/vod " , "isAdult" : false },
+    { "name" : "无尽资源" , "url" : " https://api.wujinapi.me/api.php/provide/vod " , "isAdult" : false },
+    { "name" : "优酷资源" , "url" : " https://api.ukuapi88.com/api.php/provide/vod " , "isAdult" : false },
+    { "name" : "光速资源" , "url" : " https://api.guangsuapi.com/api.php/provide/vod " , "isAdult" : false },
+    { "name" : "如意资源" , "url" : " https://cj.rycjapi.com/api.php/provide/vod " , "isAdult" : false },
+    { "name" : "极速资源" , "url" : " https://jszyapi.com/api.php/provide/vod " , "isAdult" : false },
+    { "name" : "新狼资源" , "url" : " https://api.xinlangapi.com/xinlangapi.php/provide/vod " , "isAdult" : false },
+    { "name" : "电影天堂" , "url" : " https://caiji.dyttzyapi.com/api.php/provide/vod " , "isAdult" : false },
+    { “名称”：“ 360资源”，“网址” ：“ https://360zy.com/api.php/provide/vod ”，“isAdult”：假}
+  ],
+  "liveSources"：[
+    { "name" : " ★4K专区(3台·ffmpeg实测3840x2160) " , "url" : " https://gist.githubusercontent.com/yifanwang-yet/c2c9263066c0c5d20f50ce9b31d40e7e/raw/libretv-4k.m3u " },
+    { "name" : " zbds IPTV4 (521台·带台标EPG) " , "url" : " https://live.zbds.top/tv/iptv4.m3u " },
+    { "name" : " vbskycn IPTV4 (6小时自动更新) " , "url" : " https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u " },
+    { "name" : " iptv-org 中国大陆 (507台·含4K边境) " , "url" : " https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u " },
+    { "name" : " aptv 综合源 (含卫视4K边境) " , "url" : " https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u " },
+    { "name" : " YanG 综合源(123台) " , "url" : " https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u " }
+  ]
+}
